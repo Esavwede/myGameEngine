@@ -1,0 +1,17 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+#board 
+{
+    width: 640px;
+    height: 480px;
+    background-color: lightgoldenrodyellow;
+    margin: 0 auto; 
+    border-top: 20px; 
+}
